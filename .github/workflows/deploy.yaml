@@ -5,6 +5,7 @@ on:
     branches:
       - v5
   workflow_dispatch:
+  
 permissions:
   contents: read
   pages: write
